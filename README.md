@@ -2,6 +2,9 @@
 Source Code for TapCalcomanie
 It's OpenSource Code. Feel free. :)
 
+# Game Link
+https://codegrimie.itch.io/tapcalcomanie
+
 # Document
 ![Document-1](https://user-images.githubusercontent.com/64130504/108616904-22cf8680-7455-11eb-8f5f-2b1f428ca65d.png)
 ![Document-2](https://user-images.githubusercontent.com/64130504/108616907-24994a00-7455-11eb-8315-7e70e5bd176a.png)
